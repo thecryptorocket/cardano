@@ -2,5 +2,6 @@
 "name": "CryptoRocket",
 "description": "The CryptoRocket Pool is a Cardano Stake Pool ran by Development and Security professionals who offer the highest quality services to its delegators.",
 "ticker": "ROCKT",
-"homepage": "https://cryptorocket.xyz/"
+"homepage": "https://cryptorocket.xyz/",
+"extended": "https://raw.githubusercontent.com/thecryptorocket/cardano/main/meta.json"
 }
